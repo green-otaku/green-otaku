@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime and programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate C++ projects, feel free to message me!
-- 📫 How to reach me: 
+- 📫 How to reach me:\n
   *Discord: c++ disliker (just learn python)#5617
 
 <!---
